@@ -1,0 +1,35 @@
+_repo: A-Modest-Meane-to-MariageRoterodamus-and-translated-into-Englishe-by-N.L._46239
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Leigh, Nicholas
+    gutenberg_agent_id: '43011'
+    url: http://www.gutenberg.org/2009/agents/43011
+covers:
+- cover_type: archival
+  image_path: 46239-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Erasmus, Desiderius
+    alias: Erasmus, of Rotterdam
+    birthdate: 1469
+    deathdate: 1536
+    gutenberg_agent_id: '3026'
+    url: http://www.gutenberg.org/2009/agents/3026
+    wikipedia: http://en.wikipedia.org/wiki/Erasmus
+description: ''
+gutenberg_issued: '2014-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Marriage -- Early works to 1800'
+- !lcsh 'Dialogues, Latin (Medieval and modern) -- Translations into English'
+title: "A Modest Meane to Mariage\r\npleasauntly set foorth by that famous Clarke\
+  \ Erasmus Roterodamus, and translated into Englishe by N.L."
+url: http://www.gutenberg.org/ebooks/46239
